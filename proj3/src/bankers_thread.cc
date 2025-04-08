@@ -10,6 +10,7 @@
 #include <sstream>
 #include <string>
 #include <vector>
+#include <algorithm>
 
 
 typedef std::vector<std::size_t> ResourceArray;
