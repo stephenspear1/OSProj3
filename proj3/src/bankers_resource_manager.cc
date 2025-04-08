@@ -1,3 +1,4 @@
+// Copyright 2025 Stephen Spear
 #include <bankers_resource_manager.h>
 
 #include <iostream>

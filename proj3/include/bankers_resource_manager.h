@@ -5,6 +5,7 @@
 #include <thread_mutex.h>
 
 #include <vector>
+#include <algorithm>
 #include <iostream>
 
 
